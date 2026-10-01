@@ -8,3 +8,13 @@ turbulencia https://dle.rae.es/turbulencia
 ventosidad https://dle.rae.es/ventosidad
 cinco https://dle.rae.es/cinco
 atrocidad https://dle.rae.es/atrocidad
+astigmatismo https://dle.rae.es/astigmatismo
+culebra https://dle.rae.es/culebra
+anacardo https://dle.rae.es/anacardo
+rinoceronte https://dle.rae.es/rinoceronte
+retorcido https://dle.rae.es/retorcido
+mineral https://dle.rae.es/mineral
+botafumeiro https://dle.rae.es/botafumeiro
+campana https://dle.rae.es/campana
+telonero https://dle.rae.es/relonero
+morcilla https://dle.rae.es/morcilla
